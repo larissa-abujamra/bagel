@@ -1,1 +1,1 @@
-https://uscwebdev.github.io/bagel-larissa-abujamra/
+https://github.io/bagel-larissa-abujamra/
